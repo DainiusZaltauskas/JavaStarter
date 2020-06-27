@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="48bbd267-db64-47fc-80b5-909163eb7660" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/003_Variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/out/production/003_Variables/ArithemicsAverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/out/production/003_Variables/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/out/production/003_Variables/Volume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/src/ArithemicsAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/003_Variables/src/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/004_Conditions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/004_Conditions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/004_Conditions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/004_Conditions/004_Conditions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/004_Conditions/out/production/004_Conditions/Translator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWorks/004_Conditions/src/Translator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaStarterPamokos.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/.idea/Materials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/001_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/out/production/001_Samples/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Samples/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Знакомство с языком JAVA (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Знакомство с языком Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Установка JDK.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/001_Intro/001_Установка и настройка IDE IntelliJ IDEA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/002_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/out/production/002_Samples/com/itvdn/javaStarter/C01_Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/out/production/002_Samples/com/itvdn/javaStarter/C02_BasicTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/out/production/002_Samples/com/itvdn/javaStarter/C03_DefaultValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/out/production/002_Samples/com/itvdn/javaStarter/C04_FloatDouble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/out/production/002_Samples/com/itvdn/javaStarter/C05_Char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/src/com/itvdn/javaStarter/C01_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/src/com/itvdn/javaStarter/C02_BasicTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/src/com/itvdn/javaStarter/C03_DefaultValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/src/com/itvdn/javaStarter/C04_FloatDouble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Samples/src/com/itvdn/javaStarter/C05_Char.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Машинная математика.Переменные и типы данных (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/002_Машинная математика.Переменные и типы данных.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/002_Machine Mathematics/Примитивные типы данных.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/003_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C01_ConstantFinal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C02_Casting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C03_Arithmetic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C04_MathPow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C05_MathSqrt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C06_Comparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C07_IncDec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C08_Assignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C09_LocalVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C10_Concatenation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C11_StringFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C12_TypesComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/com/itvdn/javaStarter/C13_Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C01_ConstantFinal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C02_Casting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C03_Arithmetic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C04_MathPow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C05_MathSqrt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C06_Comparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C07_IncDec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C08_Assignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C09_LocalVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C10_Concatenation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C11_StringFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C12_TypesComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/out/production/003_Samples/ua/com/webcamp/javaStarter/C13_Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C01_ConstantFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C02_Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C03_Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C04_MathPow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C05_MathSqrt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C06_Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C07_IncDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C07_IncDec_Papildomas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C08_Assignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C09_LocalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C10_Concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C11_StringFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C12_TypesComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Samples/src/com/itvdn/javaStarter/C13_Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Переменные и типы данных (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/003_Переменные и типы данных.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/Casting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/003_Variables/Примитивные типы данных.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/004_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C01_If.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C02_IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C03_IfElseShort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C04_Authentification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C05_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C06_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C07_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C08_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C09_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C10_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C11_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C12_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C13_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/C14_CoffeeMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/com/itvdn/javaStarter/Scannerz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C01_If.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C02_IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C03_IfElseShort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C04_Authentification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C05_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C06_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C07_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C08_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C09_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C10_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C11_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C12_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C13_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/C14_CoffeeMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/out/production/004_Samples/ua/com/webcamp/javaStarter/Scannerz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C01_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C02_IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C03_IfElseShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C04_Authentification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C05_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C06_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C07_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C08_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C09_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C10_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C11_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C12_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C13_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/C14_CoffeeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Samples/src/com/itvdn/javaStarter/Scannerz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Условные конструкции (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/004_Условные конструкции.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C01_If.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C02_IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C03_IfElseShort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C04_Authentification.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C05_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C06_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C07_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C08_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C09_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C10_Ternary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C11_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C12_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C13_Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/C14_CoffeeMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/004_Conditions/out/production/004_Conditions/com/itvdn/javaStarter/Scannerz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/005_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/com/itvdn/javaStarter/C01_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/com/itvdn/javaStarter/C02_Port.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/com/itvdn/javaStarter/C03_Cyper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/com/itvdn/javaStarter/C04_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/com/itvdn/javaStarter/C05_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/com/itvdn/javaStarter/C06_LogicShift.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/com/itvdn/javaStarter/C07_ShortLogicComputing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/com/itvdn/javaStarter/C08_DeMorganTheoremes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/ua/com/webcamp/javaStarter/C01_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/ua/com/webcamp/javaStarter/C02_Port.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/ua/com/webcamp/javaStarter/C03_Cyper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/ua/com/webcamp/javaStarter/C04_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/ua/com/webcamp/javaStarter/C05_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/ua/com/webcamp/javaStarter/C06_LogicShift.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/ua/com/webcamp/javaStarter/C07_ShortLogicComputing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/out/production/005_Samples/ua/com/webcamp/javaStarter/C08_DeMorganTheoremes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/src/com/itvdn/javaStarter/C01_Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/src/com/itvdn/javaStarter/C02_Port.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/src/com/itvdn/javaStarter/C03_Cyper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/src/com/itvdn/javaStarter/C04_Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/src/com/itvdn/javaStarter/C05_Logic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/src/com/itvdn/javaStarter/C06_LogicShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/src/com/itvdn/javaStarter/C07_ShortLogicComputing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Samples/src/com/itvdn/javaStarter/C08_DeMorganTheoremes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Логические и побитовые операции (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/005_Логические и побитовые операции.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/out/production/005_Logic/com/itvdn/javaStarter/C01_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/out/production/005_Logic/com/itvdn/javaStarter/C02_Port.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/out/production/005_Logic/com/itvdn/javaStarter/C03_Cyper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/out/production/005_Logic/com/itvdn/javaStarter/C04_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/out/production/005_Logic/com/itvdn/javaStarter/C05_Logic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/out/production/005_Logic/com/itvdn/javaStarter/C06_LogicShift.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/out/production/005_Logic/com/itvdn/javaStarter/C07_ShortLogicComputing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/out/production/005_Logic/com/itvdn/javaStarter/C08_DeMorganTheoremes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/005_Logic/Логические операции.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/006_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C01_While.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C02_WhileBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C03_WhileContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C04_GuessColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C05_DoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C06_DoWhileBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C07_DoWhileContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C08_Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C09_For.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C10_ForBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C11_ForContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C12_ForInFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C13_DijkstraLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C14_SpiderLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/com/itvdn/javaStarter/C15_EndlessLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C01_While.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C02_WhileBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C03_WhileContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C04_GuessColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C05_DoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C06_DoWhileBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C07_DoWhileContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C08_Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C09_For.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C10_ForBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C11_ForContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C12_ForInFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C13_DijkstraLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C14_SpiderLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/out/production/006_Samples/ua/com/webcamp/javaStarter/C15_EndlessLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C01_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C02_WhileBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C03_WhileContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C04_GuessColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C05_DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C06_DoWhileBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C07_DoWhileContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C08_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C09_For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C10_ForBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C11_ForContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C12_ForInFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C13_DijkstraLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C14_SpiderLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Samples/src/com/itvdn/javaStarter/C15_EndlessLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Циклические  конструкции (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/006_Циклические  конструкции.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C01_While.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C02_WhileBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C03_WhileContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C04_GuessColor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C05_DoWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C06_DoWhileBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C07_DoWhileContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C08_Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C09_For.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C10_ForBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C11_ForContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C12_ForInFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C13_DijkstraLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C14_SpiderLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/006_Loops/out/production/006_Loops/com/itvdn/javaStarter/C15_EndlessLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/007_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C01_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C02_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C03_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C04_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C05_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C06_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C07_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C08_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C09_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/com/itvdn/javaStarter/C10_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C01_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C02_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C03_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C04_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C05_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C06_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C07_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C08_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C09_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/out/production/007_Samples/ua/com/webcamp/javaStarter/C10_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C01_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C02_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C03_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C04_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C05_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C06_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C07_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C08_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C09_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Samples/src/com/itvdn/javaStarter/C10_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Методы (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/007_Методы.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C01_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C02_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C03_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C04_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C05_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C06_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C07_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C08_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C09_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/007_Methods/out/production/007_Methods/com/itvdn/javaStarter/C10_Methods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/008_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C01_MethodsOverload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C02_MethodsNamedArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C03_MethodsOverload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C04_MethodsMainOverload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C05_MethodsRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C06_MethodsRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C07_MethodsBinaryDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C08_MethodsRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/com/itvdn/javaStarter/C09_MethodsFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C01_MethodsOverload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C02_MethodsNamedArgs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C03_MethodsOverload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C04_MethodsMainOverload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C05_MethodsRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C06_MethodsRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C07_MethodsBinaryDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C08_MethodsRecursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/out/production/008_Samples/ua/com/webcamp/javaStarter/C09_MethodsFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C01_MethodsOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C02_MethodsNamedArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C03_MethodsOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C04_MethodsMainOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C05_MethodsRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C06_MethodsRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C07_MethodsBinaryDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C08_MethodsRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Samples/src/com/itvdn/javaStarter/C09_MethodsFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Методы (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/008_Methods/008_Методы.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/009_Samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C01_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C02_ArraysFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C03_ArraysFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C04_ArraysNull.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C05_TwoDimentionalArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C06_TwoDimentionalArrayFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C07_TwoDimentionalArrayFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C08_TwoDimentionalArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C09_ThreeDimentionalArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C10_ThreeDimensionalArrayFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C11_JaggedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C12_JaggedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C13_MethodWithArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C14_MinArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/com/itvdn/javaStarter/C15_MaxArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C01_Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C02_ArraysFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C03_ArraysFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C04_ArraysNull.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C05_TwoDimentionalArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C06_TwoDimentionalArrayFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C07_TwoDimentionalArrayFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C08_TwoDimentionalArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C09_ThreeDimentionalArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C10_ThreeDimensionalArrayFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C11_JaggedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C12_JaggedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C13_MethodWithArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C14_MinArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/out/production/009_Samples/ua/com/webcamp/javaStarter/C15_MaxArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C01_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C02_ArraysFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C03_ArraysFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C04_ArraysNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C05_TwoDimentionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C06_TwoDimentionalArrayFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C07_TwoDimentionalArrayFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C08_TwoDimentionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C09_ThreeDimentionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C10_ThreeDimensionalArrayFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C11_JaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C12_JaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C13_MethodWithArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C14_MinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Samples/src/com/itvdn/javaStarter/C15_MaxArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Массивы (Presentation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/009_Arrays/009_Массивы.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/Additional task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/src/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Additional task/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/src/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_001/Task 2/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/Additional task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/out/production/Additional task/AdditionalTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Additional task/src/AdditionalTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/out/production/Task 2/Task_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 2/src/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/out/production/Task 3/Task_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_002/Task 3/src/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/Additional task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/out/production/Additional task/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Additional task/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/out/production/Task 1/Task_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 1/src/Task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/out/production/Task 2/ArithmeticAverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 2/src/ArithmeticAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/out/production/Task 3/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 3/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/out/production/Task 4/Volume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 4/src/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 5/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 5/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_003/Task 5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/Additional task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/out/production/Additional task/Translator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Additional task/src/Translator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/out/production/Task 2/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 2/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/out/production/Task 3/Interval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_004/Task 3/src/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/out/production/Additional task 1/PowerOfTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 1/src/PowerOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/out/production/Additional task 2/DeMorganComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Additional task 2/src/DeMorganComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/out/production/Task 2/Parity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 2/src/Parity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/out/production/Task 3/LogicOperations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 3/src/LogicOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/Task 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/out/production/Task 4/Premium.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_005/Task 4/src/Premium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/Additional task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/out/production/Additional task/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Additional task/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/out/production/Task 2/SumMin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 2/src/SumMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/out/production/Task 3/Task_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 3/src/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/Task 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/out/production/Task 4/Delivery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_006/Task 4/src/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/Additional task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/out/production/Additional task/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Additional task/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/out/production/Task 2/Arithmetics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 2/src/Arithmetics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/out/production/Task 3/Conversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 3/src/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/Task 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/out/production/Task 4/NumbersCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_007/Task 4/src/NumbersCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/out/production/Additional task/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Additional task/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/out/production/Task 2/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 2/src/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/out/production/Task 3/Delivery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_008/Task 3/src/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/Additional task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/out/production/Additional task/Arrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Additional task/src/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/Task 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/out/production/Task 2/CustomerArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 2/src/CustomerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/out/production/Task 3/ReversedArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 3/src/ReversedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/Task 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/out/production/Task 4/UserArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/HomeWorkAnswers/Lesson_009/Task 4/src/UserArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/002_Machine Mathematics/com/itvdn/javaStarter/C01_Variables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/002_Machine Mathematics/com/itvdn/javaStarter/C02_BasicTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/002_Machine Mathematics/com/itvdn/javaStarter/C03_DefaultValues.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/002_Machine Mathematics/com/itvdn/javaStarter/C04_FloatDouble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/002_Machine Mathematics/com/itvdn/javaStarter/C05_Char.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/META-INF/003_Variables.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C01_ConstantFinal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C02_Casting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C03_Arithmetic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C04_MathPow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C05_MathSqrt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C06_Comparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C07_IncDec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C07_IncDec_Papildomas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C08_Assignment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C09_LocalVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C10_Concatenation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C11_StringFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C12_TypesComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/out/production/003_Variables/com/itvdn/javaStarter/C13_Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Materials/Описание курса JAVA Starter.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$vaStarterPamokos.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dtL9jLYHJjmO1EkSquPBYtgw1e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48bbd267-db64-47fc-80b5-909163eb7660" name="Default Changelist" comment="" />
+      <created>1593239292554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593239292554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
